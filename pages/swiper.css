@@ -1,0 +1,12 @@
+.swiper-pagination-bullets {
+  display: flex !important;
+  min-width: min-content;
+  width: min-content !important;
+  bottom: 10px !important;
+  right: 10px !important;
+  left: auto !important;
+}
+
+.swiper-pagination-bullet-active {
+  background-color: #0ec243 !important;
+}
